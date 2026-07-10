@@ -1,3 +1,3 @@
 <resources>
-    <string name="app_name">Amalienau Audio Tour</string>
+    <string name="app_name" translatable="false">Аудиогид Амалиенау</string>
 </resources>
